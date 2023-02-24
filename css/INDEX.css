@@ -1,4 +1,10 @@
-body {background-color: powderblue;}
-h1   {color: rgb(255, 187, 0);}
-p    {color: red;}
- 
+body{
+    background-color: #EAF6F6;
+  }
+  hr{
+      border-style:none;
+      border-top-style:dotted ;
+     border-color:grey;
+     border-width: 5px;
+      width: 5%;
+  }
